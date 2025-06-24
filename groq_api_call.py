@@ -3,7 +3,7 @@ import os
 from groq import Groq
 
 client = Groq(
-    api_key='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',
+    api_key='gsk_x7BNQ3qilxOSad8E6ic5WGdyb3FYMjcvUJFC93dhjPg0fvNtrF',
 )
 query = st.text_input(" ")
 
